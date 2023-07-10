@@ -18,7 +18,7 @@
   }
   
   .header {
-    background: #4f005f;
+    background: #5f0000;
     padding: 1rem;
   }
   
@@ -28,7 +28,7 @@
   }
   
   .content {
-    padding: 1rem;
+    padding: 2rem;
   }
   
   .actions {
@@ -46,7 +46,7 @@
 
   .errorMessage {
     display: block;
-    color: rgb(159, 0, 0);
+    color: rgb(183, 46, 46);
     text-align: center;
     /* border: solid;
     border-color: rgb(223, 26, 26);
@@ -58,3 +58,5 @@
     max-width: 40rem; */
 
   }
+  
+  
